@@ -1,6 +1,6 @@
-<!-- Ultimate Daredevil Panoramic Graphic Header -->
+<!-- Ultimate Daredevil Custom Image Graphic Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=111&descAlignY=50&text=ABHIMANYU%20%20%E2%80%A2%20%20SYSTEMS%20ARCHITECT&fontSize=28&fontColor=ff2a2a&bgImg=https://images6.alphacoders.com/605/605801.jpg&height=180" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111&descAlignY=50&text=ABHIMANYU%20%20%E2%80%A2%20%20SYSTEMS%20ARCHITECT&fontSize=28&fontColor=ff2a2a&bgImg=https://raw.githubusercontent.com/Abhimanyu2314/Abhimanyu2314/main/OIP%20(4).webp&height=180" width="100%" />
 </p>
 
 <p align="center">
