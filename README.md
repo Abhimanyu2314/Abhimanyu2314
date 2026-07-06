@@ -1,11 +1,11 @@
-<!-- Premium Dark Daredevil Silhouette Header -->
+<!-- Ultimate Daredevil Panoramic Graphic Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=090d13&secondaryColor=1a0508&height=180&section=header&text=ABHIMANYU%20%20%E2%80%A2%20%20SYSTEMS%20ARCHITECT&fontSize=26&fontColor=ff2a2a&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111&descAlignY=50&text=ABHIMANYU%20%20%E2%80%A2%20%20SYSTEMS%20ARCHITECT&fontSize=28&fontColor=ff2a2a&bgImg=https://images6.alphacoders.com/605/605801.jpg&height=180" width="100%" />
 </p>
 
 <p align="center">
   <code>🔴 SYSTEM STATUS: ACTIVE</code> &nbsp;•&nbsp; 
-  <code>🌐 ENVIRONMENT: RED_ROOM</code> &nbsp;•&nbsp; 
+  <code>🌐 ENVIRONMENT: HELLS_KITCHEN</code> &nbsp;•&nbsp; 
   <code>⚔️ MODE: DAREDEVIL</code>
 </p>
 
