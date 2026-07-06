@@ -1,8 +1,8 @@
-<!-- Premium Animated Typing Subtitle Header -->
+<!-- Ultimate Production-Grade Tech Terminal Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&secondaryColor=161b22&height=180&section=header&text=ABHIMANYU%20%20%E2%80%A2%20%20ENGINEER&fontSize=32&fontColor=ffffff&fontAlignY=40&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&secondaryColor=161b22&height=180&section=header&text=ABHIMANYU%20%20%E2%80%A2%20%20SYSTEMS%20ENGINEER&fontSize=28&fontColor=ffffff&fontAlignY=40&animation=twinkling" width="100%" />
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;Data+Pipelines+%26+Automation;Predictive+Modeling+%26+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=%5B%E2%9C%AF%5D+Architecting+Scalable+Data+Systems;%5B%E2%9C%AF%5D+Backend+Automation+%26+Pipelines;%5B%E2%9C%AF%5D+Predictive+Analytics+%26+Modeling" alt="Typing SVG" />
 </p>
 
 ## 📌 Executive Summary
@@ -10,12 +10,12 @@ A data-focused software engineer specializing in backend automation, predictive 
 
 ---
 
-## 🛠️ Tech Stack & Ecosystem
+## 🛠️ System Stack & Core Competencies
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>💻 Backend & Data Engineering</h3>
+      <h3>💻 Core Systems & Architecture</h3>
       <p align="left">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -23,7 +23,7 @@ A data-focused software engineer specializing in backend automation, predictive 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎨 Frontend & Interface</h3>
+      <h3>🎨 Interface & Distribution Engineering</h3>
       <p align="left">
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -35,24 +35,19 @@ A data-focused software engineer specializing in backend automation, predictive 
 
 ---
 
-## 🏆 Open Source Milestone Badges
+## 🕋 System Activity Metrics Dashboard
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhimanyu2314&theme=darkhub&no-bg=true&margin-w=15&column=4" width="100%" alt="GitHub Trophies" />
+  <!-- Interactive Analytics Ring View -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyu2314&layout=donut&theme=tokyonight&hide_border=true&langs_count=5" width="49%" alt="Language Donut Analytics" />
+  <!-- Production Commits Graph Tracker -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhimanyu2314&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="49%" alt="Activity Graph" />
 </p>
 
 ---
 
-## 📈 Activity & Metrics
-
-<p align="center">
-  <!-- GitHub Activity Graph Dashboard -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhimanyu2314&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
-</p>
-
----
-
-## 🎮 Contribution Matrix (The Snake Game)
-The contribution chart below actively renders an animated snake game eating your commit blocks in real time.
+## 🎮 Git Matrix (The Automated Arcade Grid)
+The commit grid below runs automatically to animate a continuous clean loop of your contribution metrics.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Abhimanyu2314/Abhimanyu2314/output/github-contribution-grid-snake.svg" alt="GitHub Strike Snake" width="100%" />
@@ -60,7 +55,7 @@ The contribution chart below actively renders an animated snake game eating your
 
 ---
 
-## 💼 Featured Repositories
+## 💼 Core Repositories & Open Source Ecosystem
 
 <p align="center">
   <a href="https://github.com/Abhimanyu2314/Nassau-Candy-Profitability-Intelligence-Platform">
@@ -73,7 +68,14 @@ The contribution chart below actively renders an animated snake game eating your
 
 ---
 
-## 🎵 Digital Ecosystem Presence & Contact
+## 🏆 System Milestones & Account Badges
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhimanyu2314&theme=darkhub&no-bg=true&margin-w=15&column=4" width="100%" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 🎵 Matrix Connection Nodes
 <p align="center">
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
