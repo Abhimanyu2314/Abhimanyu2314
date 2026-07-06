@@ -15,7 +15,8 @@
 
 <p align="center">
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <img src="https://komarev.com/normal-reciprocal.php?username=Abhimanyu2314&hidelogo=true&color=ff2a2a&style=flat-square" alt="System Intercepts" />
+  <img src="https://img.shields.io/badge/Secured-System-ff2a2a?style=flat-square" />&nbsp;
+  <img src="https://img.shields.io/badge/Telemetry-Active-ff2a2a?style=flat-square" />
 </p>
 
 <br />
