@@ -1,4 +1,4 @@
-<!-- Premium Obsidian Executive Terminal Banner -->
+<!-- Premium Obsidian Systems Header -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=090d13&secondaryColor=0d1117&height=160&section=header&text=ABHIMANYU%20%20%E2%80%A2%20%20SYSTEMS%20ARCHITECT&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=twinkling" width="100%" />
 </p>
@@ -28,18 +28,24 @@
   <tr>
     <td width="33.3%" valign="top">
       <strong><code>[01]</code> Data & Backend</strong>
+      <br />
+      <small>Data warehousing & pipelines</small>
       <br /><br />
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br />
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
     </td>
     <td width="33.3%" valign="top">
       <strong><code>[02]</code> Core Engine</strong>
+      <br />
+      <small>Version control & runtimes</small>
       <br /><br />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br />
       <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
     </td>
     <td width="33.3%" valign="top">
       <strong><code>[03]</code> Distribution & UI</strong>
+      <br />
+      <small>Reactive interfaces</small>
       <br /><br />
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br />
       <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-0d1117?style=flat-square" />
@@ -56,6 +62,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyu2314&layout=donut&theme=tokyonight&hide_border=true&langs_count=5" width="49%" alt="Language Donut Analytics" />
   <!-- Production Commits Graph Tracker -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhimanyu2314&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="49%" alt="Activity Graph" />
+</p>
+
+<p align="center">
+  <!-- Real-time Streak Metric Tracker -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhimanyu2314&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Tracker" />
 </p>
 
 ---
