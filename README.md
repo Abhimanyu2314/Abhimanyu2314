@@ -1,5 +1,8 @@
+<!-- Premium Animated Typing Subtitle Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&secondaryColor=161b22&height=180&section=header&text=ABHIMANYU%20%20%E2%80%A2%20%20ENGINEER&fontSize=32&fontColor=ffffff&fontAlignY=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&secondaryColor=161b22&height=180&section=header&text=ABHIMANYU%20%20%E2%80%A2%20%20ENGINEER&fontSize=32&fontColor=ffffff&fontAlignY=40&animation=twinkling" width="100%" />
+  <br />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3500&pause=1000&color=58a6ff&center=true&vCenter=true&width=500&lines=Full-Stack+Software+Engineer;Data+Pipelines+%26+Automation;Predictive+Modeling+%26+Analytics" alt="Typing SVG" />
 </p>
 
 ## 📌 Executive Summary
@@ -32,6 +35,15 @@ A data-focused software engineer specializing in backend automation, predictive 
 
 ---
 
+## 🏆 Open Source Milestone Badges
+This engine dynamically awards virtual showcase trophies based on your raw commit frequency, project stars, account age, and active repository count.
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhimanyu2314&theme=darkhub&no-bg=true&margin-w=15&column=4" width="100%" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📈 Activity & Metrics
 
 <p align="center">
@@ -42,15 +54,13 @@ A data-focused software engineer specializing in backend automation, predictive 
 <br />
 
 ### 🕋 3D Contribution Isometric View
-This interactive element maps out your daily commits into a stylized isometric grid.
-
 <p align="center">
   <img src="https://github-profile-3d-contrib.vercel.app/api?username=Abhimanyu2314&theme=dark" width="85%" alt="3D Contribution Graph" />
 </p>
 
 ---
 
-## 🏆 Featured Repositories
+## 💼 Featured Repositories
 
 <p align="center">
   <a href="https://github.com/Abhimanyu2314/Nassau-Candy-Profitability-Intelligence-Platform">
@@ -61,7 +71,19 @@ This interactive element maps out your daily commits into a stylized isometric g
   </a>
 </p>
 
-<br />
+---
+
+## 🎵 Digital Ecosystem Presence & Contact
+<p align="center">
+  <!-- Optional Spotify Streaming Component (requires manual deployment, displaying standard card container) -->
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://komarev.com/normal-reciprocal.php?username=Abhimanyu2314&hidelogo=true&color=58a6ff&style=flat-square" alt="Profile Views" />
 </p>
