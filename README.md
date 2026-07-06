@@ -36,8 +36,6 @@ A data-focused software engineer specializing in backend automation, predictive 
 ---
 
 ## 🏆 Open Source Milestone Badges
-This engine dynamically awards virtual showcase trophies based on your raw commit frequency, project stars, account age, and active repository count.
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Abhimanyu2314&theme=darkhub&no-bg=true&margin-w=15&column=4" width="100%" alt="GitHub Trophies" />
 </p>
@@ -51,11 +49,13 @@ This engine dynamically awards virtual showcase trophies based on your raw commi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhimanyu2314&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
-<br />
+---
 
-### 🕋 3D Contribution Isometric View
+## 🎮 Contribution Matrix (The Snake Game)
+The contribution chart below actively renders an animated snake game eating your commit blocks in real time.
+
 <p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=Abhimanyu2314&theme=dark" width="85%" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Abhimanyu2314/Abhimanyu2314/output/github-contribution-grid-snake.svg" alt="GitHub Strike Snake" width="100%" />
 </p>
 
 ---
@@ -75,7 +75,6 @@ This engine dynamically awards virtual showcase trophies based on your raw commi
 
 ## 🎵 Digital Ecosystem Presence & Contact
 <p align="center">
-  <!-- Optional Spotify Streaming Component (requires manual deployment, displaying standard card container) -->
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
