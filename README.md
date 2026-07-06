@@ -64,18 +64,11 @@
 
 ---
 
-### 📊 Real-Time Telemetry & Performance Matrix
+### 📊 Commit Analytics
 
 <p align="center">
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyu2314&layout=donut&theme=tokyonight&hide_border=true&langs_count=5" width="49%" alt="Language Donut Analytics" />
-  <!-- Commit Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhimanyu2314&bg_color=0d1117&color=ff2a2a&line=ff2a2a&point=ffffff&area=true&hide_border=true" width="49%" alt="Activity Graph" />
-</p>
-
-<p align="center">
-  <!-- Streak Metric Tracker -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhimanyu2314&theme=darkhub&hide_border=true" width="100%" alt="GitHub Streak Tracker" />
+  <!-- Production Commits Graph Tracker -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhimanyu2314&bg_color=0d1117&color=ff2a2a&line=ff2a2a&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 ---
@@ -89,20 +82,29 @@
 
 ### 💼 Featured Architectures & Open Source Ecosystem
 
-<p align="center">
-  <a href="https://github.com/Abhimanyu2314/Nassau-Candy-Profitability-Intelligence-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhimanyu2314&repo=Nassau-Candy-Profitability-Intelligence-Platform&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-  <a href="https://github.com/Abhimanyu2314/Data-Analyst-Securitisation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhimanyu2314&repo=Data-Analyst-Securitisation&theme=tokyonight&hide_border=true" width="48%" />
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚀 <a href="https://github.com/Abhimanyu2314/Nassau-Candy-Profitability-Intelligence-Platform">Nassau Candy Profitability Intelligence Platform</a></h4>
+      <p>Data orchestration environment built to run predictive analytics and clean systemic modeling routines over commercial scale logistical financial data streams.</p>
+      <code>Python</code> &bull; <code>Automation</code> &bull; <code>Data Pipeline</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📊 <a href="https://github.com/Abhimanyu2314/Data-Analyst-Securitisation">Data Analyst Securitisation Engine</a></h4>
+      <p>Custom analytics runtime engineered for profiling data processing metrics and backend pipeline monitoring optimization frameworks.</p>
+      <code>Data Engineering</code> &bull; <code>Analytics</code> &bull; <code>Systems</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🏆 Verified System Milestones
+### 🏆 System Verification & Badges
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhimanyu2314&theme=darkhub&no-bg=true&margin-w=15&column=4" width="100%" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-ff2a2a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Contributions-Welcome-ff2a2a?style=flat-square" />
+  <img src="https://img.shields.io/badge/Architecture-Scalable-ff2a2a?style=flat-square" />
 </p>
 
 ---
