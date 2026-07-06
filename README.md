@@ -62,10 +62,13 @@
 
 ---
 
-### 📊 Commit Analytics
+### 📊 Real-Time Telemetry & Performance Matrix
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhimanyu2314&bg_color=0d1117&color=ff2a2a&line=ff2a2a&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <!-- Interactive Analytics Stats Ring View -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyu2314&layout=donut&theme=darkhub&hide_border=true&langs_count=5" width="49%" alt="Language Donut Analytics" />
+  <!-- Commit Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhimanyu2314&bg_color=0d1117&color=ff2a2a&line=ff2a2a&point=ffffff&area=true&hide_border=true" width="49%" alt="Activity Graph" />
 </p>
 
 ---
