@@ -3,7 +3,9 @@
   <img src="./daredevil-born-3840x1080-21608.jpg" width="100%" alt="Daredevil Banner" />
 </p>
 
-<h1 align="center"><font color="#ff2a2a">ABHIMANYU • SYSTEMS ARCHITECT</font></h1>
+<h1 align="center">
+  <font color="#ff2a2a" style="text-shadow: 0 0 10px rgba(255,42,42,0.5);">ABHIMANYU • SYSTEMS ARCHITECT</font>
+</h1>
 
 <p align="center">
   <code>🔴 SYSTEM STATUS: ACTIVE</code> &nbsp;•&nbsp; 
@@ -12,8 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <img src="https://komarev.com/normal-reciprocal.php?username=Abhimanyu2314&hidelogo=true&color=ff2a2a&style=flat" alt="Profile Views" />
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <img src="https://komarev.com/normal-reciprocal.php?username=Abhimanyu2314&hidelogo=true&color=ff2a2a&style=flat-square" alt="System Intercepts" />
 </p>
 
 <br />
@@ -65,15 +67,15 @@
 ### 📊 Real-Time Telemetry & Performance Matrix
 
 <p align="center">
-  <!-- Interactive Analytics Ring View (Crimson Theme) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyu2314&layout=donut&theme=darkhub&hide_border=true&langs_count=5" width="49%" alt="Language Donut Analytics" />
+  <!-- Crimson Analytics Ring View -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyu2314&layout=donut&title_color=ff2a2a&text_color=ffffff&icon_color=ff2a2a&bg_color=0d1117&hide_border=true&langs_count=5" width="49%" alt="Language Donut Analytics" />
   <!-- Production Commits Graph Tracker -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhimanyu2314&bg_color=0d1117&color=ff2a2a&line=ff2a2a&point=ffffff&area=true&hide_border=true" width="49%" alt="Activity Graph" />
 </p>
 
 <p align="center">
   <!-- Real-time Streak Metric Tracker -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhimanyu2314&theme=darkhub&hide_border=true" width="100%" alt="GitHub Streak Tracker" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhimanyu2314&theme=darkhub&ring=ff2a2a&fire=ff2a2a&hide_border=true" width="100%" alt="GitHub Streak Tracker" />
 </p>
 
 ---
@@ -89,10 +91,10 @@
 
 <p align="center">
   <a href="https://github.com/Abhimanyu2314/Nassau-Candy-Profitability-Intelligence-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhimanyu2314&repo=Nassau-Candy-Profitability-Intelligence-Platform&theme=darkhub&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhimanyu2314&repo=Nassau-Candy-Profitability-Intelligence-Platform&title_color=ff2a2a&text_color=ffffff&icon_color=ff2a2a&bg_color=0d1117&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/Abhimanyu2314/Data-Analyst-Securitisation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhimanyu2314&repo=Data-Analyst-Securitisation&theme=darkhub&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhimanyu2314&repo=Data-Analyst-Securitisation&title_color=ff2a2a&text_color=ffffff&icon_color=ff2a2a&bg_color=0d1117&hide_border=true" width="48%" />
   </a>
 </p>
 
