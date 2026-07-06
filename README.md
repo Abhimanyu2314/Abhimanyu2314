@@ -1,8 +1,8 @@
-<!-- Ultimate Production-Grade Tech Terminal Header -->
+<!-- Elite Production-Grade Obsidian Dashboard Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&secondaryColor=161b22&height=180&section=header&text=ABHIMANYU%20%20%E2%80%A2%20%20SYSTEMS%20ENGINEER&fontSize=28&fontColor=ffffff&fontAlignY=40&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=090d13&secondaryColor=0d1117&height=180&section=header&text=ABHIMANYU%20%20%E2%80%A2%20%20SYSTEMS%20ARCHITECT&fontSize=28&fontColor=ffffff&fontAlignY=40&animation=twinkling" width="100%" />
   <br />
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=%5B%E2%9C%AF%5D+Architecting+Scalable+Data+Systems;%5B%E2%9C%AF%5D+Backend+Automation+%26+Pipelines;%5B%E2%9C%AF%5D+Predictive+Analytics+%26+Modeling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=%E2%A6%81+Architecting+Scalable+Data+Systems;%E2%A6%81+Backend+Automation+%26+Pipelines;%E2%A6%81+Predictive+Analytics+%26+Modeling" alt="Typing SVG" />
 </p>
 
 ## 📌 Executive Summary
@@ -35,7 +35,7 @@ A data-focused software engineer specializing in backend automation, predictive 
 
 ---
 
-## 🕋 System Activity Metrics Dashboard
+## 🕋 System Analytics & Performance Matrix
 
 <p align="center">
   <!-- Interactive Analytics Ring View -->
@@ -46,8 +46,8 @@ A data-focused software engineer specializing in backend automation, predictive 
 
 ---
 
-## 🎮 Git Matrix (The Automated Arcade Grid)
-The commit grid below runs automatically to animate a continuous clean loop of your contribution metrics.
+## 🎮 Git Matrix Engine (Automated Arcade Grid)
+The contribution matrix compiles background commit telemetry data into a continuous visual sequence.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Abhimanyu2314/Abhimanyu2314/output/github-contribution-grid-snake.svg" alt="GitHub Strike Snake" width="100%" />
