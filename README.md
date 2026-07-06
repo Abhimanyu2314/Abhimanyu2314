@@ -1,18 +1,17 @@
-<!-- Ultimate Tech Mosaic Header (Inspired by image_ec14e4.png) -->
+<!-- Premium Dark Daredevil Silhouette Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=090d13&secondaryColor=161b22&height=180&section=header&text=ABHIMANYU%20%20%E2%80%A2%20%20SYSTEMS%20ARCHITECT&fontSize=26&fontColor=ffffff&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=090d13&secondaryColor=1a0508&height=180&section=header&text=ABHIMANYU%20%20%E2%80%A2%20%20SYSTEMS%20ARCHITECT&fontSize=26&fontColor=ff2a2a&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
-  <code>⚡ SYSTEM STATUS: ACTIVE</code> &nbsp;•&nbsp; 
-  <code>🌐 ENVIRONMENT: PRODUCTION</code> &nbsp;•&nbsp; 
-  <code>🛠️ STACK: FULL-STACK / DATA</code>
+  <code>🔴 SYSTEM STATUS: ACTIVE</code> &nbsp;•&nbsp; 
+  <code>🌐 ENVIRONMENT: RED_ROOM</code> &nbsp;•&nbsp; 
+  <code>⚔️ MODE: DAREDEVIL</code>
 </p>
 
 <p align="center">
-  <!-- Interactive Social Follow Badges like image_ec14e4.png -->
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;
-  <img src="https://komarev.com/normal-reciprocal.php?username=Abhimanyu2314&hidelogo=true&color=58a6ff&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/normal-reciprocal.php?username=Abhimanyu2314&hidelogo=true&color=ff2a2a&style=flat" alt="Profile Views" />
 </p>
 
 <br />
@@ -64,15 +63,15 @@
 ### 📊 Real-Time Telemetry & Performance Matrix
 
 <p align="center">
-  <!-- Interactive Analytics Ring View -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyu2314&layout=donut&theme=tokyonight&hide_border=true&langs_count=5" width="49%" alt="Language Donut Analytics" />
+  <!-- Interactive Analytics Ring View (Crimson Theme) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyu2314&layout=donut&theme=darkhub&hide_border=true&langs_count=5" width="49%" alt="Language Donut Analytics" />
   <!-- Production Commits Graph Tracker -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhimanyu2314&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="49%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhimanyu2314&bg_color=0d1117&color=ff2a2a&line=ff2a2a&point=ffffff&area=true&hide_border=true" width="49%" alt="Activity Graph" />
 </p>
 
 <p align="center">
   <!-- Real-time Streak Metric Tracker -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhimanyu2314&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak Tracker" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhimanyu2314&theme=darkhub&hide_border=true" width="100%" alt="GitHub Streak Tracker" />
 </p>
 
 ---
@@ -88,10 +87,10 @@
 
 <p align="center">
   <a href="https://github.com/Abhimanyu2314/Nassau-Candy-Profitability-Intelligence-Platform">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhimanyu2314&repo=Nassau-Candy-Profitability-Intelligence-Platform&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhimanyu2314&repo=Nassau-Candy-Profitability-Intelligence-Platform&theme=darkhub&hide_border=true" width="48%" />
   </a>
   <a href="https://github.com/Abhimanyu2314/Data-Analyst-Securitisation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhimanyu2314&repo=Data-Analyst-Securitisation&theme=tokyonight&hide_border=true" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhimanyu2314&repo=Data-Analyst-Securitisation&theme=darkhub&hide_border=true" width="48%" />
   </a>
 </p>
 
