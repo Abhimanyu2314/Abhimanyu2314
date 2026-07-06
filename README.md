@@ -27,18 +27,3 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <!-- Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhimanyu2314&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" width="48%" />
-  
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyu2314&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <!-- Streak Counter -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhimanyu2314&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
