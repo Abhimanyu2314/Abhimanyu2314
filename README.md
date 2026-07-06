@@ -1,6 +1,6 @@
 <!-- Native Daredevil Custom Image Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhimanyu2314/Abhimanyu2314/main/OIP%20(4).webp" width="100%" alt="Daredevil Banner" />
+  <img src="./daredevil-born-3840x1080-21608.jpg" width="100%" alt="Daredevil Banner" />
 </p>
 
 <h1 align="center"><font color="#ff2a2a">ABHIMANYU • SYSTEMS ARCHITECT</font></h1>
