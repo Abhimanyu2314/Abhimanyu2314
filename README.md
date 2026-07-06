@@ -70,8 +70,8 @@
 </p>
 
 <p align="center">
-  <!-- Premium Dedicated Demolab Cluster - Streak Circles Card -->
-  <img src="https://streak-stats.demolab.com/?user=Abhimanyu2314&theme=darkhub&ring=ff2a2a&fire=ff2a2a&sideNums=ffffff&sideLabels=ffffff&hide_border=true" width="100%" alt="GitHub Streak Tracker" />
+  <!-- Color-Corrected Solid Dark Background Streak Dashboard -->
+  <img src="https://streak-stats.demolab.com/?user=Abhimanyu2314&theme=darkhub&background=0d1117&ring=ff2a2a&fire=ff2a2a&currStreakNum=ff2a2a&sideNums=ffffff&sideLabels=a5a5a5&hide_border=true" width="100%" alt="GitHub Streak Tracker" />
 </p>
 
 ---
