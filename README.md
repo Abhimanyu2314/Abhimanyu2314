@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/abhimanyu-rai-38569b406/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>&nbsp;
   <img src="https://img.shields.io/badge/Secured-System-ff2a2a?style=flat-square" />&nbsp;
   <img src="https://img.shields.io/badge/Telemetry-Active-ff2a2a?style=flat-square" />
 </p>
@@ -111,7 +111,7 @@
 ---
 
 <p align="center">
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:abhiabha6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
