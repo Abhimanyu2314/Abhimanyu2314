@@ -1,12 +1,18 @@
-<!-- Premium Obsidian Systems Header -->
+<!-- Ultimate Tech Mosaic Header (Inspired by image_ec14e4.png) -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=090d13&secondaryColor=0d1117&height=160&section=header&text=ABHIMANYU%20%20%E2%80%A2%20%20SYSTEMS%20ARCHITECT&fontSize=28&fontColor=ffffff&fontAlignY=50&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=090d13&secondaryColor=161b22&height=180&section=header&text=ABHIMANYU%20%20%E2%80%A2%20%20SYSTEMS%20ARCHITECT&fontSize=26&fontColor=ffffff&animation=twinkling" width="100%" />
 </p>
 
 <p align="center">
   <code>⚡ SYSTEM STATUS: ACTIVE</code> &nbsp;•&nbsp; 
   <code>🌐 ENVIRONMENT: PRODUCTION</code> &nbsp;•&nbsp; 
   <code>🛠️ STACK: FULL-STACK / DATA</code>
+</p>
+
+<p align="center">
+  <!-- Interactive Social Follow Badges like image_ec14e4.png -->
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <img src="https://komarev.com/normal-reciprocal.php?username=Abhimanyu2314&hidelogo=true&color=58a6ff&style=flat" alt="Profile Views" />
 </p>
 
 <br />
@@ -99,13 +105,7 @@
 ---
 
 <p align="center">
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
   <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <br /><br />
-  <img src="https://komarev.com/normal-reciprocal.php?username=Abhimanyu2314&hidelogo=true&color=58a6ff&style=flat-square" alt="Profile Views" />
 </p>
