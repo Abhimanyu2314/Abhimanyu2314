@@ -70,8 +70,8 @@
 </p>
 
 <p align="center">
-  <!-- Stable Vercel Mirror - Streak Circles Card -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Abhimanyu2314&theme=darkhub&ring=ff2a2a&fire=ff2a2a&sideNums=ffffff&sideLabels=ffffff&hide_border=true" width="100%" alt="GitHub Streak Tracker" />
+  <!-- Premium Dedicated Demolab Cluster - Streak Circles Card -->
+  <img src="https://streak-stats.demolab.com/?user=Abhimanyu2314&theme=darkhub&ring=ff2a2a&fire=ff2a2a&sideNums=ffffff&sideLabels=ffffff&hide_border=true" width="100%" alt="GitHub Streak Tracker" />
 </p>
 
 ---
