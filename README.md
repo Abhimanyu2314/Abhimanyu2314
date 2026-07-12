@@ -70,13 +70,13 @@
 </p>
 
 <p align="center">
-  <!-- Stable Vercel Mirror - Fixed GitHub Streak Tracker Backend -->
-  <img src="https://github-readme-streak-stats.vercel.app/?user=Abhimanyu2314&theme=darkhub&background=0d1117&ring=ff2a2a&fire=ff2a2a&currStreakNum=ff2a2a&sideNums=ffffff&sideLabels=a5a5a5&hide_border=true" width="100%" alt="GitHub Streak Tracker" />
+  <!-- High-stability Daredevil Red & Dark Theme Streak Tracker Preset -->
+  <img src="https://streak-stats.demolab.com/?user=Abhimanyu2314&theme=blood&hide_border=true" width="100%" alt="GitHub Streak Tracker" />
 </p>
 
 ---
 
-### 🛠️ Git Matrix Automation Engine
+### 🎮 Git Matrix Automation Engine
 <p align="center">
   <img src="https://raw.githubusercontent.com/Abhimanyu2314/Abhimanyu2314/output/github-contribution-grid-snake.svg" alt="GitHub Strike Snake" width="100%" />
 </p>
