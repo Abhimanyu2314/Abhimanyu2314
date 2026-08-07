@@ -71,7 +71,7 @@
 
 <p align="center">
   <!-- High-stability Daredevil Red & Dark Theme Streak Tracker Preset -->
-  <img src="https://streak-stats.demolab.com/?user=Abhimanyu2314&theme=blood&hide_border=true" width="100%" alt="GitHub Streak Tracker" />
+  <img src="https://streak-stats.demolab.com/?user=Abhimanyu2314&theme=dark&background=0d1117&ring=ff2a2a&fire=ff2a2a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff2a2a&sideLabels=ffffff&dates=8b949e&hide_border=true" width="100%" alt="GitHub Streak Tracker" />
 </p>
 
 ---
