@@ -70,8 +70,8 @@
 ### 📊 Real-Time Telemetry & Performance Matrix
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhimanyu2314&theme=blood&hide_border=true&show_icons=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyu2314&theme=blood&hide_border=true&layout=compact" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Abhimanyu2314&theme=blood&hide_border=true&show_icons=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Abhimanyu2314&theme=blood&hide_border=true&layout=compact" width="49%" alt="Top Languages" />
 </p>
 
 <p align="center">
