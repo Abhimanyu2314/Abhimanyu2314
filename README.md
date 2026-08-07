@@ -78,7 +78,7 @@
 
 ### 🎮 Git Matrix Automation Engine
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhimanyu2314/Abhimanyu2314/output/github-contribution-grid-snake.svg" alt="GitHub Strike Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/Abhimanyu2314/Abhimanyu2314/output/github-contribution-grid-snake-dark.svg" alt="GitHub Strike Snake" width="100%" />
 </p>
 
 ---
