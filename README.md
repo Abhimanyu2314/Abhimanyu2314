@@ -1,4 +1,6 @@
-<h1 align="center">ABHIMANYU • SYSTEMS ARCHITECT</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF2A2A&center=true&vCenter=true&width=600&lines=ABHIMANYU+•+SYSTEMS+ARCHITECT;DATA-FOCUSED+SOFTWARE+ENGINEER;BACKEND+AUTOMATION+SPECIALIST" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="./daredevil-born-3840x1080-21608.jpg" width="100%" alt="Daredevil Banner" />
@@ -38,24 +40,27 @@
       <br />
       <small>Data warehousing & pipelines</small>
       <br /><br />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,nodejs" />
+      </a>
     </td>
     <td width="33.3%" valign="top">
       <strong><code>[02]</code> Core Engine</strong>
       <br />
       <small>Version control & runtimes</small>
       <br /><br />
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /><br />
-      <img src="https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white" />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=js,git" />
+      </a>
     </td>
     <td width="33.3%" valign="top">
       <strong><code>[03]</code> Distribution & UI</strong>
       <br />
       <small>Reactive interfaces</small>
       <br /><br />
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" /><br />
-      <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3-0d1117?style=flat-square" />
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=react,html,css" />
+      </a>
     </td>
   </tr>
 </table>
@@ -65,13 +70,18 @@
 ### 📊 Real-Time Telemetry & Performance Matrix
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhimanyu2314&theme=blood&hide_border=true&show_icons=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhimanyu2314&theme=blood&hide_border=true&layout=compact" width="49%" alt="Top Languages" />
+</p>
+
+<p align="center">
   <!-- Production Commits Graph Tracker -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhimanyu2314&bg_color=0d1117&color=ff2a2a&line=ff2a2a&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
   <!-- High-stability Daredevil Red & Dark Theme Streak Tracker Preset -->
-  <img src="https://streak-stats.demolab.com/?user=Abhimanyu2314&theme=dark&background=0d1117&ring=ff2a2a&fire=ff2a2a&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ff2a2a&sideLabels=ffffff&dates=8b949e&hide_border=true" width="100%" alt="GitHub Streak Tracker" />
+  <img src="https://streak-stats.demolab.com/?user=Abhimanyu2314&theme=blood&hide_border=true" width="100%" alt="GitHub Streak Tracker" />
 </p>
 
 ---
