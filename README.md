@@ -70,8 +70,8 @@
 ### 📊 Real-Time Telemetry & Performance Matrix
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Abhimanyu2314&theme=blood&hide_border=true&show_icons=true" width="49%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Abhimanyu2314&theme=blood&hide_border=true&layout=compact" width="49%" alt="Top Languages" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=Abhimanyu2314&bg_color=0d1117&title_color=ff2a2a&text_color=ffffff&icon_color=ff2a2a&hide_border=true&show_icons=true" width="49%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=Abhimanyu2314&bg_color=0d1117&title_color=ff2a2a&text_color=ffffff&hide_border=true&layout=compact" width="49%" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -81,7 +81,7 @@
 
 <p align="center">
   <!-- High-stability Daredevil Red & Dark Theme Streak Tracker Preset -->
-  <img src="https://streak-stats.demolab.com/?user=Abhimanyu2314&theme=blood&hide_border=true" width="100%" alt="GitHub Streak Tracker" />
+  <img src="https://streak-stats.demolab.com/?user=Abhimanyu2314&background=0d1117&ring=ff2a2a&fire=ff2a2a&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="100%" alt="GitHub Streak Tracker" />
 </p>
 
 ---
