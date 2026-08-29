@@ -76,7 +76,7 @@
 
 <p align="center">
   <!-- Production Commits Graph Tracker -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhimanyu2314&bg_color=0d1117&color=ff2a2a&line=ff2a2a&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://activity-graph.vercel.app/graph?username=Abhimanyu2314&bg_color=0d1117&color=ff2a2a&line=ff2a2a&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </p>
 
 <p align="center">
